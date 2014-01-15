@@ -9,6 +9,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  * Created by nhristov on 1/14/14.
+ * Added comments
  */
 public interface UserService {
     @Path("users")
